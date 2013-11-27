@@ -1,5 +1,5 @@
 {
-  "name": "mojo-models",
+  "name": "mojo-model",
   "version": "0.0.1",
   "description": "mojo-models ===========",
   "main": "./lib/index.js",
