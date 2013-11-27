@@ -1,4 +1,0 @@
-mojo-models
-===========
-
-mojo models
