@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git://github.com/classdojo/mojo-models.git"
   },
+  "keywords": [
+    "mojo-plugin"
+  ],
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
