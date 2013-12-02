@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/classdojo/mojo-models",
   "dependencies": {
-    "protoclass": "0.0.2",
+    "protoclass": "0.0.x",
     "bindable-model": "0.0.x"
   }
 }
