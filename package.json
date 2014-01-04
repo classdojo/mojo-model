@@ -1,6 +1,6 @@
 {
   "name": "mojo-model",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Models library for mojo.js",
   "main": "./lib/index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/classdojo/mojo-models",
   "dependencies": {
     "protoclass": "0.0.x",
-    "bindable-model": "0.0.x"
+    "bindable-model": "0.1.x"
   }
 }
